@@ -1,0 +1,3 @@
+class ServerMessageFormatter:
+
+    pass
